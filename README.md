@@ -26,3 +26,5 @@ STEP 2, [ASF](https://github.com/JustArchiNET/ArchiSteamFarm/releases/tag/5.2.0.
 - [1] [이것](https://justarchinet.github.io/ASF-WebConfigGenerator/#/) 으로 자신의 계정 PROFILE 을 만든다.
 - [2] ASF 를 한번 실행한 후 ASF 를 압축해제 한 후에 생성된 CONFIG 파일에 넣어준다.
 - [3] ASF 파일을 실행한 후 UI html 파일을 열어준다 ![17](https://user-images.githubusercontent.com/46117865/145717185-76f4e4ac-9808-43c3-be47-418e83f6d680.png)
+- [4] SETTINGS 에서 나머진 알아서 하고 GamesPlayedWhileIdle 에서 플레이타임 부스트를 하고싶은 게임의 APP ID 를 찾아서 등록해준다.
+- [5] DONE
