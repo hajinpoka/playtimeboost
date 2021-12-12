@@ -15,3 +15,4 @@ STEP 1, AWS 서버 구축 ( 해외결제가 지원되는 카드가 필요하다.
 - [3] 인스턴스 유형 선택 ![13](https://user-images.githubusercontent.com/46117865/145716379-b4de601e-0ba9-43a7-9520-3a7eb6294c52.png)
 - [4] 생성 ![14](https://user-images.githubusercontent.com/46117865/145716381-a04ae880-9a8a-4578-b1d9-d758a02068a7.png)
 - [5] 생성된 aws 를 우클릭 후, 연결을 눌러서 RDP 클라이언트를 받아야한다. ![15](https://user-images.githubusercontent.com/46117865/145716445-59b5f566-9551-400f-ae6d-5156de766e70.png)
+- [6] 다운로드 받은 원격파일 (EC2~ 로 시작함) 을 실행하고, 암호키를 입력하라는 창이 뜬다. RDP 클라이언트를 다운받는곳 에서 암호 가져오기 탭을 연 후, 암호키(blabla.pem)를 메모장으로 열어서 입력한 후 해독하기 버튼을 통해 얻은 암호를 EC2 파일에 넣어주면 된다. 
