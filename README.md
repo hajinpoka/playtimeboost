@@ -30,4 +30,4 @@ STEP 2 [ASF](https://github.com/JustArchiNET/ArchiSteamFarm/releases/tag/5.2.0.1
 - [5] DONE
 
 STEP 3 So how does it work?
-> aws 에서 ASF 를 켜두면 24/7 가동한다. 게임을 껏다 켜도 AUTORESTART 기능으로 인해 관리를 안해주어도 계속 돌릴수있음. 그런데 문제는 2FA, 
+> aws 에서 ASF 를 켜두면 24/7 가동한다. 이게 끝임. 게임을 껏다 켜도 AUTORESTART 기능으로 인해 관리를 안해주어도 계속 돌릴수있음. 그런데 문제는 2FA 
