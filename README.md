@@ -24,7 +24,7 @@ STEP 1 AWS 서버 구축 ( 해외결제가 지원되는 카드가 필요하다.)
 
 STEP 2 [ASF](https://github.com/JustArchiNET/ArchiSteamFarm/releases/tag/5.2.0.10) 설정 (반드시 가상윈도우 에서 해야한다.)
 - [1] [이것](https://justarchinet.github.io/ASF-WebConfigGenerator/#/) 으로 자신의 계정 PROFILE 을 만든다.
-- [2] ASF 를 한번 실행한 후 ASF 를 압축해제 한 후에 생성된 CONFIG 파일에 넣어준다.
+- [2] ASF 를 압축해제 한 후 ASF 를 한번 실행하여 폴더내에 생성된 CONFIG 폴더에 자신의 프로필 파일을 넣어준다.
 - [3] ASF 파일을 실행한 후 UI html 파일을 열어준다 ![17](https://user-images.githubusercontent.com/46117865/145717185-76f4e4ac-9808-43c3-be47-418e83f6d680.png)
 - [4] SETTINGS 에서 STEAM ID 와 PW 를 설정 해 주고 GamesPlayedWhileIdle 에서 플레이타임 부스트를 하고싶은 게임의 APP ID 를 찾아서 등록해준다.
 - [5] DONE
