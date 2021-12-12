@@ -28,3 +28,6 @@ STEP 2 [ASF](https://github.com/JustArchiNET/ArchiSteamFarm/releases/tag/5.2.0.1
 - [3] ASF 파일을 실행한 후 UI html 파일을 열어준다 ![17](https://user-images.githubusercontent.com/46117865/145717185-76f4e4ac-9808-43c3-be47-418e83f6d680.png)
 - [4] SETTINGS 에서 STEAM ID 와 PW 를 설정 해 주고 GamesPlayedWhileIdle 에서 플레이타임 부스트를 하고싶은 게임의 APP ID 를 찾아서 등록해준다.
 - [5] DONE
+
+STEP 3 So how does it work?
+> aws 에서 ASF 를 켜두면 24/7 가동한다. 게임을 껏다 켜도 AUTORESTART 기능으로 인해 관리를 안해주어도 계속 돌릴수있음. 그런데 문제는 2FA, 
