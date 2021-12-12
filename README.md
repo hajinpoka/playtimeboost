@@ -14,4 +14,4 @@ STEP 1, AWS 서버 구축 ( 해외결제가 지원되는 카드가 필요하다.
 - [2] Amazon Machine Image(AMI) 선택 ![12](https://user-images.githubusercontent.com/46117865/145716377-03d439e6-6099-4257-8134-314e96122b15.png)
 - [3] 인스턴스 유형 선택 ![13](https://user-images.githubusercontent.com/46117865/145716379-b4de601e-0ba9-43a7-9520-3a7eb6294c52.png)
 - [4] 생성 ![14](https://user-images.githubusercontent.com/46117865/145716381-a04ae880-9a8a-4578-b1d9-d758a02068a7.png)
-- [5] 생성된 aws 를 우클릭 후, 연결을 눌러서 RDP 클라이언트를 받아야한다.
+- [5] 생성된 aws 를 우클릭 후, 연결을 눌러서 RDP 클라이언트를 받아야한다. ![15](https://user-images.githubusercontent.com/46117865/145716445-59b5f566-9551-400f-ae6d-5156de766e70.png)
