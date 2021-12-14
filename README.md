@@ -33,3 +33,7 @@ AWS(Amazon Web Services)와, ASF(ArchiSteamFarm)를 이용해 가상 윈도우�
 
 autorestart 과정에서 2fa 인증이 필요한데, 이게 restart 할때마다 계속 입력해주어야함. STEP 3 에서는 이것을 자동화 하는 방법을 서술할거임.
 >[참조](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Two-factor-authentication)
+여기서는 [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator)를 사용해서 자동화 하는 방법을 서술함. ( 반드시 가상 윈도우에서 하세요)
+- [1] Setup New Account 를 클릭해서 자신의 계정을 등록해줌.
+- [2] 생성된 maFILES 를 스팀ID.maFile 에서 봇이름.maFile 으로 변경한 후 가상 윈도우 내의 ASF CONFIG 파일에 넣어주어야함.
+- [3] DONE
