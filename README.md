@@ -30,6 +30,8 @@ STEP 2 [ASF](https://github.com/JustArchiNET/ArchiSteamFarm/releases/tag/5.2.0.1
 - [5] DONE
 
 STEP 3 So how does it work?
-> aws 에서 ASF 를 켜두면 24/7 가동한다. 이게 끝임. 게임을 껏다 켜도 AUTORESTART 기능으로 인해 관리를 안해주어도 계속 돌릴수있음. 
+> aws 에서 ASF 를 켜두면 24/7 가동한다. 이게 끝임. 게임을 껏다 켜도 AUTORESTART 기능으로 인해 관리를 안해주어도 계속 돌릴수있음.
+
+
 autorestart 과정에서 2fa 인증이 필요한데, 이게 restart 할때마다 계속 입력해주어야함. STEP 3 에서는 이것을 자동화 하는 방법을 서술할거임.
 >[참조](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/Two-factor-authentication)
