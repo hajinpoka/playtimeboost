@@ -27,7 +27,7 @@ AWS(Amazon Web Services)와, ASF(ArchiSteamFarm)를 이용해 가상 윈도우�
 - [4] SETTINGS 에서 STEAM ID 와 PW 를 설정 해 주고 GamesPlayedWhileIdle 에서 플레이타임 부스트를 하고싶은 게임의 APP ID 를 찾아서 등록해준다.
 - [5] DONE
 
-## STEP 3 So how does it work?
+## STEP 3 돌아가는 원리가 
 > aws 에서 ASF 를 켜두면 24/7 가동한다. 이게 끝임. 게임을 껏다 켜도 AUTORESTART 기능으로 인해 관리를 안해주어도 계속 돌릴수있음.
 
 
