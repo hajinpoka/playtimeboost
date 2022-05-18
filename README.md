@@ -9,7 +9,7 @@ AWS(Amazon Web Services)와, ASF(ArchiSteamFarm)를 이용한 가상 윈도우�
 - [3] https://github.com/Jessecar96/SteamDesktopAuthenticator/releases/tag/1.0.10 - 자동 2FA
 
 
-## STEP 1 AWS 서버 구축 ( 해외결제가 지원되는 카드가 필요하다.)
+## STEP 1 AWS 서버 구축
 
 - [1] [AWS 회원가입](https://aws.amazon.com/ko/free/?trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|KR|KR|Text&ef_id=Cj0KCQiA2NaNBhDvARIsAEw55hg6XgL93SNEdE7REvQvuF-HlfhInFwqRsxZGSU9E5pis5cOWERkL-gaAo1TEALw_wcB:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&ef_id=Cj0KCQiA2NaNBhDvARIsAEw55hg6XgL93SNEdE7REvQvuF-HlfhInFwqRsxZGSU9E5pis5cOWERkL-gaAo1TEALw_wcB:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 - [2] Amazon Machine Image(AMI) 선택 ![12](https://user-images.githubusercontent.com/46117865/145716377-03d439e6-6099-4257-8134-314e96122b15.png)
@@ -27,7 +27,7 @@ AWS(Amazon Web Services)와, ASF(ArchiSteamFarm)를 이용한 가상 윈도우�
 - [4] SETTINGS 에서 STEAM ID 와 PW 를 설정 해 주고 GamesPlayedWhileIdle 에서 플레이타임 부스트를 하고싶은 게임의 APP ID 를 찾아서 등록해준다.
 - [5] DONE
 
-## STEP 3 돌아가는 원리가 
+## STEP 3 돌아가는 원리
 > aws 에서 ASF 를 켜두면 24/7 가동한다. 이게 끝임. 게임을 껏다 켜도 AUTORESTART 기능으로 인해 관리를 안해주어도 계속 돌릴수있음.
 
 
